@@ -24,3 +24,4 @@ Any errors from the console will be relayed to the bottom of the Raycast window.
 # Planned Features
 
 - [ ] Support for creating/inserting new passwords into the password store.
+- [ ] A way to sort by most frequently used passwords on top of alphabetically.
